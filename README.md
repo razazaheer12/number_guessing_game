@@ -89,3 +89,7 @@ number_guessing_game/
 ## License
 
 This project is open source and available under the MIT License.
+
+## Author
+
+Developed by Raza Zaheer GitHub: @razazaheer12
